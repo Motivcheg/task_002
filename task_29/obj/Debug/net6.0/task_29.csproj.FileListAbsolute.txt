@@ -1,0 +1,5 @@
+C:\Users\loman\Desktop\seminar\task_004\task_002\task_29\obj\Debug\net6.0\task_29.csproj.AssemblyReference.cache
+C:\Users\loman\Desktop\seminar\task_004\task_002\task_29\obj\Debug\net6.0\task_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loman\Desktop\seminar\task_004\task_002\task_29\obj\Debug\net6.0\task_29.AssemblyInfoInputs.cache
+C:\Users\loman\Desktop\seminar\task_004\task_002\task_29\obj\Debug\net6.0\task_29.AssemblyInfo.cs
+C:\Users\loman\Desktop\seminar\task_004\task_002\task_29\obj\Debug\net6.0\task_29.csproj.CoreCompileInputs.cache
